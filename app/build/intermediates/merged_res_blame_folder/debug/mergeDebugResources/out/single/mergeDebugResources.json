@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image1.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image1.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_icon_image1_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\icon_image1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_num_btn_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\num_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_logo_image.png.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\logo_image.png"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image1_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image1_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_icon_image_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\icon_image_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image1_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_icon_image1_round.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\icon_image1_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_icon_image1.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\icon_image1.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image1_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image1_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image1_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_icon_image_round.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\icon_image_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image1.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image1.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image1_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image1_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image1.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image1.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_icon_image.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\icon_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_logoicon.png.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\logoicon.png"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_app_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\app_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_backspace.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\backspace.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_icon_image.png.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\icon_image.png"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_ic_input_delete.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\ic_input_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image1.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image1.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image1.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image1.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image1_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_fun_btn_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\fun_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_clear_btn_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\clear_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-hdpi_icon_image.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-hdpi\\icon_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_equal_btn_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\equal_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-mdpi_icon_image_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-mdpi\\icon_image_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_icon_image1_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\icon_image1_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xhdpi_icon_image_foreground.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xhdpi\\icon_image_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\drawable_other_btn_background.xml.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\drawable\\other_btn_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_icon_image1_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\icon_image1_round.webp"
+    },
+    {
+        "merged": "com.example.engicalculator.app-debug-32:/layout-land_activity_main.xml.flat",
+        "source": "com.example.engicalculator.app-main-34:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\saura.SAURAVUGALKAR\\.gradle\\daemon\\8.11.1\\com.example.engicalculator.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blackStart">#060607</color>
+    <color name="blueBlack">#111f28</color>
+    <color name="button_clear">#FF6347</color>
+    <color name="button_equal">#FFD700</color>
+    <color name="button_function">#F4A460</color>
+    <color name="button_number">#B0B0B0</color>
+    <color name="button_operator">#FFA500</color>
+    <color name="button_pressed">#888888</color>
+    <color name="greyAccent">#afb9c5</color>
+    <color name="greyEnd">#484e52</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="redAccent">#ff0000</color>
+    <color name="redBackground">#5a020b</color>
+    <color name="tanAccent">#e3cdb3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="EngiCalculator">EngiCalculator</string>
+    <string name="LogText">log</string>
+    <string name="absoluteValueText">|x|</string>
+    <string name="addText">+</string>
+    <string name="app_name">EngiCalculator</string>
+    <string name="backspace">Backspace</string>
+    <string name="clearText">C</string>
+    <string name="decimalText">.</string>
+    <string name="displayHint">0</string>
+    <string name="divideText">÷</string>
+    <string name="eText">e</string>
+    <string name="eightText">8</string>
+    <string name="engicalculator">EngiCalculator</string>
+    <string name="equalsText">=</string>
+    <string name="fiveText">5</string>
+    <string name="fourText">4</string>
+    <string name="fractiontodecimal">F⇔D</string>
+    <string name="multiplyText">×</string>
+    <string name="naturalLogText">ln</string>
+    <string name="nineText">9</string>
+    <string name="oneText">1</string>
+    <string name="parenthesesCloseText">)</string>
+    <string name="parenthesesOpenText">(</string>
+    <string name="piText">π</string>
+    <string name="sevenText">7</string>
+    <string name="sixText">6</string>
+    <string name="squareRootText">√</string>
+    <string name="subtractText">-</string>
+    <string name="threeText">3</string>
+    <string name="trigArcCosText">cos<sup><small>-1</small></sup></string>
+    <string name="trigArcSinText">sin<sup><small>-1</small></sup></string>
+    <string name="trigArcTanText">tan<sup><small>-1</small></sup></string>
+    <string name="trigCosText">cos</string>
+    <string name="trigSinText">sin</string>
+    <string name="trigTanText">tan</string>
+    <string name="twoText">2</string>
+    <string name="xPowerYText">x<sup><small>y</small></sup></string>
+    <string name="xSquaredText">x<sup><small>2</small></sup></string>
+    <string name="zeroText">0</string>
+    <style name="Base.Theme.EngiCalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.EngiCalculator" parent="Base.Theme.EngiCalculator"/>
+</resources>

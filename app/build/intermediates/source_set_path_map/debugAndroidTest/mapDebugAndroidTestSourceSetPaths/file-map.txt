@@ -1,0 +1,5 @@
+com.example.engicalculator.test.app-core-1.6.1-0 C:\Users\saura.SAURAVUGALKAR\.gradle\caches\8.11.1\transforms\f9a93cf7da0992071bcae076e6dbc66a\transformed\core-1.6.1\res
+com.example.engicalculator.test.app-androidTest-1 C:\Users\saura.SAURAVUGALKAR\AndroidStudioProjects\EngiCalculator\app\build\generated\res\resValues\androidTest\debug
+com.example.engicalculator.test.app-mergeDebugAndroidTestResources-2 C:\Users\saura.SAURAVUGALKAR\AndroidStudioProjects\EngiCalculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.engicalculator.test.app-mergeDebugAndroidTestResources-3 C:\Users\saura.SAURAVUGALKAR\AndroidStudioProjects\EngiCalculator\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.engicalculator.test.app-debugAndroidTest-4 C:\Users\saura.SAURAVUGALKAR\AndroidStudioProjects\EngiCalculator\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
